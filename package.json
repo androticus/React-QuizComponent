@@ -48,5 +48,8 @@
     "esprima": "4.0.0",
     "react-test-renderer": "16.3.1",
     "sinon": "5.0.1"
+  },
+  "jshintConfig": {
+    "esversion": 6
   }
 }
